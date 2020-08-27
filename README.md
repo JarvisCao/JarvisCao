@@ -1,7 +1,8 @@
 <!-- ### Hey there 👋, I'm Ryan Cao -->
 <h2>  Hey there 👋, I'm <a href="" target="_blank">Ryan Cao</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 <p>- 👨‍💻 Full Stack developer </p>
-<p>- 🌱 I’m currently learning Java</p>
+<p>- 🌱 I’m currently learning Java </p>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JarvisCao&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarvisCao)](https://github.com/anuraghazra/github-readme-stats)
 <!--
